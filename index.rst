@@ -6,6 +6,7 @@
 Welcome to Tech Docs's documentation!
 =====================================
 Hello World
+testing github integration
 
 .. toctree::
    :maxdepth: 2
