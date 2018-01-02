@@ -13,8 +13,8 @@ Section Subjects
 * using nano
 
 
-Traning questions
-=================
+Traning
+=======
 * touch:
     #. What happens if you 'touch' an exsisting file?
 * vim:

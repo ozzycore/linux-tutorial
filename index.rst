@@ -19,6 +19,7 @@ The course is bulit from the following **sections**:
    
    linuxcourse/intro
    linuxcourse/vim_n_nano
+   linuxcourse/manage_sofware
 
 
 Each section contains:
