@@ -18,8 +18,19 @@ The course is bulit from the following **sections**:
    :caption: Linux Course
    
    linuxcourse/intro
-   linuxcourse/vim_n_nano
-   linuxcourse/manage_sofware
+   linuxcourse/vim-nano
+   linuxcourse/cli
+   linuxcourse/cli-help
+   linuxcourse/files
+   linuxcourse/arch-files
+   linuxcourse/manage-sofware
+   linuxcourse/boot
+   linuxcourse/processes
+   linuxcourse/logging
+   linuxcourse/monitoring
+   linuxcourse/scheduling-tasks
+   linuxcourse/selinux
+   
 
 
 Each section contains:
@@ -36,5 +47,4 @@ Before starting the course please complete the **Vagrant & VirtualBox** setup se
    :hidden:
    :caption: Linux Course
 
-   vagrant_virtualbox
 
