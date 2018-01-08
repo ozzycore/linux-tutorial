@@ -18,17 +18,18 @@ The course is bulit from the following **sections**:
    :caption: Linux Course
    
    linuxcourse/intro
-   linuxcourse/vim-nano
+   linuxcourse/vim
    linuxcourse/cli
    linuxcourse/cli-help
-   linuxcourse/files
+   linuxcourse/working-with-files
+   linuxcourse/file-permissions
    linuxcourse/arch-files
    linuxcourse/manage-sofware
-   linuxcourse/boot
    linuxcourse/processes
    linuxcourse/logging
    linuxcourse/monitoring
    linuxcourse/scheduling-tasks
+   linuxcourse/boot
    linuxcourse/selinux
    
 

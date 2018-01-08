@@ -1,9 +1,8 @@
-Files
-+++++
+Working With Files
+++++++++++++++++++
 
 Key Goals
 =========
-* Managing file's permission and ownership
 * Working with files 
 * Working with links
 * Analyzing text files
@@ -32,11 +31,6 @@ Section Objectives
     * rm
     * touch
     * mkdir
-
-#. File permissions and ownership:
-    * chown
-    * chgrp
-    * chmod
 
 #. Working with links:
     * Hard link
@@ -101,21 +95,6 @@ Working with files
    :height: 100px
    :width: 200 px
    :align: center
-
-
-Files metadata
-~~~~~~~~~~~~~~~
-#. The following prints the file permission of the /etc/host file::
-
-     -rw-r--r--. 1 root root 288 Oct 25 23:20 /etc/hosts
-
-   * Explain the file permission structure.
-   * Which parameter indicates us about the type of a file?
-   * Which file types are exists in the linux environment?
-
-#. List the /etc directory permissions.
-#. Which kind of permission are needed in oreder to copy some file from it's current location to a new one?
-#. Why in your opinion, running chown requiers the root privileges while running chmod and chgrp not?
 
 Working with links
 ~~~~~~~~~~~~~~~~~~
