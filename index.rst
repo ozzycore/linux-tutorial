@@ -17,25 +17,41 @@ The course is bulit from the following **sections**:
    :maxdepth: 1
    :caption: Linux Essentials
    
-   linuxcourse/intro
-   linuxcourse/vim
-   linuxcourse/cli
-   linuxcourse/cli-help
-   linuxcourse/working-with-files
-   linuxcourse/file-permissions
-   linuxcourse/arch-files
-   linuxcourse/manage-sofware
-   linuxcourse/processes
-   linuxcourse/monitoring
-   linuxcourse/scheduling-tasks
-   linuxcourse/logging
+   linuxcourse/linux-essentials/intro
+   linuxcourse/linux-essentials/vim
+   linuxcourse/linux-essentials/cli
+   linuxcourse/linux-essentials/cli-help
+   linuxcourse/linux-essentials/working-with-files
+   linuxcourse/linux-essentials/file-permissions
+   linuxcourse/linux-essentials/arch-files
+   linuxcourse/linux-essentials/manage-sofware
+   linuxcourse/linux-essentials/processes
+   linuxcourse/linux-essentials/monitoring
+   linuxcourse/linux-essentials/scheduling-tasks
+   linuxcourse/linux-essentials/logging
+   linuxcourse/boot
+   linuxcourse/selinux
    
 .. toctree::
    :maxdepth: 1
-   :caption: Linux Inetrmediate
+   :caption: Linux User and Group Management
 
-   linuxcourse/boot
-   linuxcourse/selinux
+   linuxcourse/linux-user-group-mng/login-scripts
+   linuxcourse/linux-user-group-mng/user-group-mng
+   linuxcourse/linux-user-group-mng/pam
+   linuxcourse/linux-user-group-mng/kerberos
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Linux Storage Management
+
+   linuxcourse/linux-storage/partition-tables
+   linuxcourse/linux-storage/file-systems
+   linuxcourse/linux-storage/raid
+   linuxcourse/linux-storage/lvm
+   linuxcourse/linux-storage/encrypted-volumes
+
+
 
 
 Each section contains:

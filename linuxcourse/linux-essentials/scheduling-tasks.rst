@@ -1,7 +1,5 @@
-scheduling-tasks
+Scheduling Tasks
 ++++++++++++++++
-
-
 
 Key Goals
 =========
