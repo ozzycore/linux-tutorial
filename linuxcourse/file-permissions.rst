@@ -40,8 +40,8 @@ Exercises
    * Which file types are exists in the linux environment?
 
 #. Use stat to examine the '/etc/hosts' it full file permissions.
-#. Which command will set our default system permissions into 640?
-#. Which command will ser our default system permissions into -rw-------?
+#. Which command will set our default system permissions into 640 (use umask)?
+#. Which command will ser our default system permissions into -rw------- (use umask)?
 #. Are the file system permission cumulative? explain what is a cumulative permissions.
 #. Explain what is the sticky bit? and what it controls?
 #. Explain the usage of the GroupID and UserID bit.
@@ -52,6 +52,7 @@ Exercises
 #. How can we change our primary group?
 #. How would you change the user and group ownership for all the content of a directory (recursively).
 #. Are the permissions copied while someone copies a file? how can we control that? 
+#. Which kind of permission are needed in oreder to copy some file from it's current location to a new one?
 #. Scenario:
     * Inside your local home directory, create a stickydir directory with a sticky bit on.   
     * Inside stickydir, create file1 file that contains the following content: "Hello World".
@@ -61,9 +62,6 @@ Exercises
     * Change file's group to 'wheel'.
 
 
-#. List the /etc directory permissions.
-#. Which kind of permission are needed in oreder to copy some file from it's current location to a new one?
-#. Why in your opinion, running chown requiers the root privileges while running chmod and chgrp not?
 
 
 

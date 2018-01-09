@@ -26,9 +26,9 @@ The course is bulit from the following **sections**:
    linuxcourse/arch-files
    linuxcourse/manage-sofware
    linuxcourse/processes
-   linuxcourse/logging
    linuxcourse/monitoring
    linuxcourse/scheduling-tasks
+   linuxcourse/logging
    linuxcourse/boot
    linuxcourse/selinux
    
