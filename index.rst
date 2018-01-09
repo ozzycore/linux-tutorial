@@ -15,7 +15,7 @@ The course is bulit from the following **sections**:
 
 .. toctree::
    :maxdepth: 1
-   :caption: Linux Course
+   :caption: Linux Essentials
    
    linuxcourse/intro
    linuxcourse/vim
@@ -29,9 +29,13 @@ The course is bulit from the following **sections**:
    linuxcourse/monitoring
    linuxcourse/scheduling-tasks
    linuxcourse/logging
+   
+.. toctree::
+   :maxdepth: 1
+   :caption: Linux Inetrmediate
+
    linuxcourse/boot
    linuxcourse/selinux
-   
 
 
 Each section contains:
