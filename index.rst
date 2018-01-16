@@ -43,6 +43,7 @@ The course is bulit from the following **sections**:
    linuxcourse/linux-user-group-mng/user-group-mng
    linuxcourse/linux-user-group-mng/sudo-su
    linuxcourse/linux-user-group-mng/pam
+   linuxcourse/linux-user-group-mng/openldap
    linuxcourse/linux-user-group-mng/kerberos
 
 .. toctree::
