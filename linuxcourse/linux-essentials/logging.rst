@@ -36,11 +36,9 @@ Log files
 * Explain the difference between last and lastb command and thier correlation to the btmp and wtmp files.
 * Scenario:
     * Which file contains information about the su and sudo events?
-    * Print only the sudo events in the following format: 
-      Date: <date> User: <user>. 
-      Notes:
-          * Use 'awk' command
-          * Use only the last 100 lines of the log file.
+    * Print only the sudo events in the following format: *Date: <date> User: <user>.*
+        * Use 'awk' command.
+        * Use only the last 100 lines of the log file.
 * What the journalctl command prints (by default)?
 * Print all the logs since the last boot (using journalctl).
 

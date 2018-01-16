@@ -29,8 +29,6 @@ The course is bulit from the following **sections**:
    linuxcourse/linux-essentials/monitoring
    linuxcourse/linux-essentials/scheduling-tasks
    linuxcourse/linux-essentials/logging
-   linuxcourse/boot
-   linuxcourse/selinux
    
 .. toctree::
    :maxdepth: 1
@@ -45,13 +43,30 @@ The course is bulit from the following **sections**:
    :maxdepth: 1
    :caption: Linux Storage Management
 
+   linuxcourse/linux-storage/block-devices
    linuxcourse/linux-storage/partition-tables
    linuxcourse/linux-storage/file-systems
    linuxcourse/linux-storage/raid
    linuxcourse/linux-storage/lvm
    linuxcourse/linux-storage/encrypted-volumes
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Ansible - IT Automation
 
+   linuxcourse/ansible/intro
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Linux Network Management
+
+   linuxcourse/linux-networking/intro
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Linux Service Management
+
+   linuxcourse/linux-service-management/boot
 
 
 Each section contains:

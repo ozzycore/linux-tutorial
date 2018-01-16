@@ -1,17 +1,33 @@
 The Boot Process
 ++++++++++++++++
-* Understanding the Linux boot process
-* 
 
 Key Goals
 =========
-* cpio
-
+* Understanding the Linux boot process
+* 
 
 Content
 =======
+* firmware:
+    * BIOS
+        * MBR
+    * UEFI
+        * GPT (GUID)
+        * EFI system partitions (ESP)
+        * UEFI native boot
+        * Secure boot
 
+* Bootloader:
+    * grub & grub2
 
+* initramfs 
+    * cpio
+
+* kernel (vmlinuz)
+
+Useful Links
+============
+* https://www.happyassassin.net/2014/01/25/uefi-boot-how-does-that-actually-work-then/
 
 Exercises
 =========
@@ -39,7 +55,18 @@ dd
     #. Restore the MBR
     
 
+
     
+Firmware - BIOS & UEFI
+~~~~~~~~~~~~~~~~~~~~~~
+* Where is the BIOS stored?
+* Can someone make changes to the BIOS firmware?
+* Is there some standart (like RFC) for the BIOS firmware?
+* What the BIOS knows about our system?
+* Note the main difference between the BIOS and UEFI role in the boot process?
+* Can a UEFI firmware boot from an MBR formmatted disk?
+* Explain what is a "Secure boot"
+
 
 
 
