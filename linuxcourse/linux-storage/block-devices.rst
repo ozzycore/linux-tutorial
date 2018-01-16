@@ -1,5 +1,5 @@
-Partition Tables
-++++++++++++++++
+Block Devices
+++++++++++++++
 
 Key Goals
 ==========
