@@ -39,8 +39,8 @@ Log files
     * Print only the sudo events in the following format: 
       Date: <date> User: <user>. 
       Notes:
-      - Use 'awk' command
-      - Use only the last 100 lines of the log file.
+          * Use 'awk' command
+          * Use only the last 100 lines of the log file.
 * What the journalctl command prints (by default)?
 * Print all the logs since the last boot (using journalctl).
 
@@ -62,10 +62,10 @@ Logrotate
 * Which service runs the logrotate commands?
 * Continue scenario:
     * Rotate the /var/log/templog log file, use the following configs:
-      - Rotate the file when it's size gets to 10 bytes.
-      - use compression
-      - Dont rotate if the file is empty
-      - Use the 'missingok' option
+        * Rotate the file when it's size gets to 10 bytes.
+        * use compression
+        * Dont rotate if the file is empty
+        * Use the 'missingok' option
     * Use the logrotate command to rotate the log.
 
 
