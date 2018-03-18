@@ -41,4 +41,18 @@ Content
     * gpasswd
 
 
+Exircises
+=========
+* Use the above commands to:
+    * Create: user1, user2
+    * Create a password for user1.
+    * Create: group1, group2
+    * Assign user1 to group1 and group2
+    * List user1's secondary groups
+    * Create a password for group2.
+
+* In which usecase would someone run `chmod g+s` against some new dirctory?
+
+* Modify the `/etc/skel` directory to contain some new files and verify it by creating a new user - user1.
+* Why the `/etc/passwd` doesn't contain the users' passowrds?
 
