@@ -9,9 +9,6 @@ Content
 =======
 * vi / vim
     * complete the **vimtutor** tutorial
-* **touch** command
-* nano
-
 
 ..
      Exercises

@@ -22,6 +22,13 @@ The course is bulit from the following **sections**:
    :maxdepth: 1
    :caption: Linux Essentials
    
+   linuxcourse/contrib/contrib
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Linux Essentials
+   
    linuxcourse/linux-essentials/intro
    linuxcourse/linux-essentials/vim
    linuxcourse/linux-essentials/cli
@@ -43,8 +50,6 @@ The course is bulit from the following **sections**:
    linuxcourse/linux-user-group-mng/user-group-mng
    linuxcourse/linux-user-group-mng/sudo-su
    linuxcourse/linux-user-group-mng/pam
-   linuxcourse/linux-user-group-mng/openldap
-   linuxcourse/linux-user-group-mng/kerberos
 
 .. toctree::
    :maxdepth: 1
@@ -61,7 +66,18 @@ The course is bulit from the following **sections**:
    :maxdepth: 1
    :caption: Ansible - IT Automation
 
-   linuxcourse/ansible/intro
+   linuxcourse/ansible/ansible
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Network - The OSI Module
+
+   linuxcourse/osi/physical-layer
+   linuxcourse/osi/data-link-layer
+   linuxcourse/osi/network-layer
+   linuxcourse/osi/transport-layer
+   linuxcourse/osi/application-layer
 
 .. toctree::
    :maxdepth: 1

@@ -62,8 +62,7 @@ Exercise
 
 Finding files
 ~~~~~~~~~~~~~
-#. Which binary file executes when you running the lsb_release command?
-*Use only the find command:*
+#. Which binary file executes when you running the lsb_release command? - Use only the find command 
 #. Find the words file
 #. Find the ntp.conf file
 #. Copy all the pdf files located in /usr/share/doc/ to your home directory 
@@ -143,11 +142,11 @@ Editing files through the command line
 Compering Files
 ~~~~~~~~~~~~~~~
 #. Scenario:
-   * Copy the top 10 words of the words file to a new file inside your home directory (name it file1)
-   * Copy the top 9 words of the words file to a new file inside your home directory (name it file2)
-   * Use diff to compare the files and examin the difference
-   * Change the first 2 lines inside file1 to 'hello' (using vim)
-   * Use diff to compare the files and examin the difference
+    * Copy the top 10 words of the words file to a new file inside your home directory (name it file1)
+    * Copy the top 9 words of the words file to a new file inside your home directory (name it file2)
+    * Use diff to compare the files and examin the difference
+    * Change the first 2 lines inside file1 to 'hello' (using vim)
+    * Use diff to compare the files and examin the difference
 #. Explain what is a hash of a file?
 #. In which use cases would you use hash to comapre files instead of the diff command?
 #. Use the md5sum command to calculate the hash of the /etc/hosts file.
