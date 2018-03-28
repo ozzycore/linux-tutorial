@@ -43,7 +43,7 @@ Exercises
     #. Terminate the other 2 using the kill command.
 
 #. Explain the content of the /proc directory.
-#. Which process repesented by the following directory "cd /proc/$$"?
+#. Which process is repesented by the following directory "cd /proc/$$"?
 #. List the process details with a ProcessID equals to 1, which one is it?
 #. What is the RSS (Resident Set Size), and how can we list it using the ps command?
 #. Use ps and grep to list the sshd daemon.
@@ -58,7 +58,7 @@ Exercises
     #. Use pkill to kill those processes
   
 #. How can we view the Priority(PRI) and Nice(NI) values of a process?
-#. Explain the meaning of the Nice(NI) value of a process ,and how the CPU Priority(PRI) value is related to the NI value of a particular process?
+#. Explain the meaning of the Nice(NI) value of a process ,and how is the CPU Priority(PRI) value is related to the NI value of a particular process?
 #. What is the default values of Priority(PRI) and Nice(NI) variables for a new process?
 #. What is the range of possible values that Priority(PRI) and Nice(NI) can have?
 #. Run the 'sleep 1000' in a backgroud with the lowest possible Priority.
