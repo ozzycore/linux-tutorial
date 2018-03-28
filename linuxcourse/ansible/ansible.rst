@@ -43,6 +43,9 @@ Theoretical Part
 * How are variables referenced?
 * How do you loop over an list or dictionary in Ansible?
 * How do you define dependencies between roles?
+* Why would you use the omit filter?
+* Why would you use a mandatory variable in ansible? and how do you define them?
+* What is the usage of the `assert` module?
 
 Practical Part
 --------------
