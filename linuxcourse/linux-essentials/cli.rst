@@ -34,10 +34,10 @@ Consoles
 ~~~~~~~~
 #. Explain the difference between Physical, Local Pseudo and Remote Pseudo TTY.
 #. ssh is example to which kind of TTY?
-#. How many physical consoles exsists in a Linux enironment?
+#. How many physical consoles exsist in a Linux environment?
 #. Which shortcut can you use to bring up the physical TTY?
 #. Run the tty command and explain it's output.
-#. What the meaning of the number of files in the /dev/pts directory?
+#. What is the meaning of the number of files in the /dev/pts directory?
 
 The Command Line
 ~~~~~~~~~~~~~~~~
@@ -65,10 +65,10 @@ Wildcards
 #. Explain what is a wildcard.
 #. !!
 #. !$
-#. List the directories that much the following conditions:
+#. List the directories that match the following conditions:
     * Located inside your home directory
     * Directory name starts with the 'D' character
-#. List the files that much the following conditions:
+#. List the files that match the following conditions:
     * Located inside /dev directory 
     * File name starts with sda and then followed by a single character (for example: /dev/sda8)
 #. List only the following 2 files: /dev/sda1 and /dev/sda2 using a the [] wildcard.
