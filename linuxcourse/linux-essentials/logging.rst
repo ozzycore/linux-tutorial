@@ -3,7 +3,7 @@ Linux Logging
 
 Key Goals
 =========
-* Mointor login events
+* Monitor login events
 * Audit sudo and su system execution
 * Using 'awk' to analyzing logs
 * Rotate system's logs
