@@ -22,6 +22,7 @@ File permissions:
     * Sticky bit
     * GroupID bit
     * UserID bit
+    * getfacl
 User permissions:
     * chown
     * chgrp
