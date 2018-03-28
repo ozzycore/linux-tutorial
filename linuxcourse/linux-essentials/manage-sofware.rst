@@ -23,7 +23,7 @@ Useful Links
 Exercises
 =========
 #. Install the 'epel' repository and disable it using yum cli.
-#. Make sure the 'updates' repository is enabled (if not, enable it by editing it's repo file)
+#. Make sure the 'updates' repository is enabled (if not, enable it by editing it's repo file).
 #. Find which package installs the 'netstat' command.
 #. Print the information of that package.
 #. List all the files that this package installs (full paths).
@@ -31,7 +31,7 @@ Exercises
 #. Explain the 'rpm -V <package_name>' command.
 #. List all the available versions of 'httpd' package that available for installation.
 #. Install the newest 'httpd' package available.
-#. list all the installed packages that contains the 'kernel' word in the <package_name>.
+#. List all the installed packages that contains the 'kernel' word in the <package_name>.
 #. List all the dependencies of the 'nmap' package.
 #. Which command lists all the available [enabled & disable] repositories on your system?
 #. Using yum, download (without installing) the 'tree' package. where is it stored (directory)?

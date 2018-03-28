@@ -62,11 +62,11 @@ Exercise
 
 Finding files
 ~~~~~~~~~~~~~
-#. Which binary file executes when you running the lsb_release command? - Use only the find command 
+#. Which binary file executes when running the lsb_release command? - Use only the find command 
 #. Find the words file
 #. Find the ntp.conf file
 #. Copy all the pdf files located in /usr/share/doc/ to your home directory 
-#. Delete all the pdf file located in your home directory 
+#. Delete all the pdf files located in your home directory 
 #. List all the files that are bigger than 10MB inside the /boot directory
 #. List all the files that are bigger than 10MB inside the /boot directory and their sizes
 
@@ -102,10 +102,10 @@ Working with links
 #. How can we find the inode of a specific file?
 #. Scenario:
    * Create tempdir directory inside your home directory.
-   * How much hard links ~/tempdir has? 
+   * How many hard links ~/tempdir has? 
    * Explain why in your opinion it has that amount of hard links.
 #. Scenario:
-   * How much hard links the /etc directory has? 
+   * How many hard links the /etc directory has? 
    * Explain why in your opinion it has that amount of hard links.
 #. Scenario:
    * Create tempfile1 file inside your home directory that contains the 'Hello World' sentance (use one command).
@@ -127,9 +127,9 @@ Searching in files
 #. Which alias the grep command is uses by default?
 #. Scenario (note: use the words file):
     * List all the words that start with 'io'.
-    * List all the words that ends with 'ion'.
-    * List all the words that starts with 'po', ends with 'ute' and contains 7 characters.
-    * List all the words that contains five vowels in a row (vowels: a,e,i,o,u).
+    * List all the words that end with 'ion'.
+    * List all the words that start with 'po', end with 'ute' and contain 7 characters.
+    * List all the words that contain five vowels in a row (vowels: a,e,i,o,u).
 
 Editing files through the command line
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -146,7 +146,7 @@ Compering Files
     * Copy the top 9 words of the words file to a new file inside your home directory (name it file2)
     * Use diff to compare the files and examin the difference
     * Change the first 2 lines inside file1 to 'hello' (using vim)
-    * Use diff to compare the files and examin the difference
+    * Use diff to compare the files and examine the difference
 #. Explain what is a hash of a file?
 #. In which use cases would you use hash to comapre files instead of the diff command?
 #. Use the md5sum command to calculate the hash of the /etc/hosts file.

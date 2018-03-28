@@ -33,7 +33,7 @@ crontab
     # *  *  *  *  * user-name  command to be executed
 
 * Use cron's syntax (above) to write the answer:
-    * Run the job every 10 min?
+    * Run the job every 10 min
     * How would you run a task every day between sunday to friday at midnight time?
     * At 10 and 40 min of each hour?
     * Explain the following schedule task: 
@@ -46,7 +46,7 @@ crontab
     #. Schedule a new task using 'crontab -e' to decompress that archive.
     #. Use crontab to list your jobs.
     #. Remove it after the task is done (use crontab command).
-    #. Lets assume that the system is down in the execution time of that current job, when the job will be executed?
+    #. Lets assume that the system is down in the execution time of that current job, when will the job be executed?
 
 #. How can you manage a white list of users that are able to run cron's tasks?
 
@@ -60,7 +60,7 @@ anacron
 at
 ~~
 #. When would you use an at job over corn?
-#. Which service runs the at's jobs?
+#. Which service runs the at jobs?
 #. How can you black-list users from running at's jobs?
 
 

@@ -32,17 +32,27 @@ Theoretical Part
 * How do you extend a conditional over multiple tasks without defining the `when` conditional multiple times.
 * How do you use blocks?
 * How do you include tasks from external files?
+* What is the diffrence between an include and a import?
 * How do you pass variables at the command line?
+* How do you ask for variable prompt?
 * Why is a bad idea to commit secret data into a git repository?
 * What are some of the ways to keep secret data out of a repository (Using Ansible)?
 * What are the advantages and downsides of Ansible Vault?
+* Where would you save Ansible configurations?
 * Where is the best place to look for documentation about an Ansible module?
-* How do you install an yum package using Ansible?
+* How do you install a yum package using Ansible?
 * How does Ansible indicate if something changed?
 * Where are some places variables can be registered?
 * How are variables referenced?
 * How do you loop over an list or dictionary in Ansible?
-
+* How do you define dependencies between roles?
+* Why would you use the omit filter?
+* Why would you use a mandatory variable in Ansible? and how do you define them?
+* What is the usage of the `assert` module?
+* What is a handler?
+* What are the benefits of a role over a playbook?
+* Where would use save your variables when you are writing a role?
+* Why would you create more than one file in the tasks directory when you're writing a role?
 
 Practical Part
 --------------

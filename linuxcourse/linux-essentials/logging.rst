@@ -3,7 +3,7 @@ Linux Logging
 
 Key Goals
 =========
-* Mointor login events
+* Monitor login events
 * Audit sudo and su system execution
 * Using 'awk' to analyzing logs
 * Rotate system's logs
@@ -27,6 +27,10 @@ Content
 
 * Log rotation
     * logrotate
+
+Useful Links
+============
+* RedHat docs - `Basic configuration of rsyslog: <https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/system_administrators_guide/s1-basic_configuration_of_rsyslog>`_
 
 Exercises
 =========

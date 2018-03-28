@@ -22,6 +22,7 @@ File permissions:
     * Sticky bit
     * GroupID bit
     * UserID bit
+    * getfacl
 User permissions:
     * chown
     * chgrp
@@ -51,8 +52,9 @@ Exercises
 #. Why there is a seperation to a primary and secondary groups, why it can not be just a set of groups?
 #. How can we change our primary group?
 #. How would you change the user and group ownership for all the content of a directory (recursively).
-#. Are the permissions copied while someone copies a file? how can we control that? 
-#. Which kind of permission are needed in oreder to copy some file from it's current location to a new one?
+#. Are the permissions copied when someone copies a file? how can we control that? 
+#. Which kind of permissions are needed in order to copy some file from it's current location to a new one?
+#. How would you add permissions to a specific user?
 #. Scenario:
     * Inside your local home directory, create a stickydir directory with a sticky bit on.   
     * Inside stickydir, create file1 file that contains the following content: "Hello World".
@@ -60,7 +62,7 @@ Exercises
     * Add an execute permissions to the group (use the symbolic notation).
     * Set 'no permissions' to others (use '=' sign).
     * Change file's group to 'wheel'.
-
+    * Give the user charlie read persmissions on the file without changing the file owner or group.
 
 
 
