@@ -42,7 +42,7 @@ Theoretical Part
 * Where are some places variables can be registered?
 * How are variables referenced?
 * How do you loop over an list or dictionary in Ansible?
-
+* How do you define dependencies between roles?
 
 Practical Part
 --------------
