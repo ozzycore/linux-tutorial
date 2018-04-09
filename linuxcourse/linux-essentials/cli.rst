@@ -34,7 +34,7 @@ Consoles
 ~~~~~~~~
 #. Explain the difference between Physical, Local Pseudo and Remote Pseudo TTY.
 #. ssh is example to which kind of TTY?
-#. How many physical consoles exsist in a Linux environment?
+#. How many physical consoles exist in a Linux environment?
 #. Which shortcut can you use to bring up the physical TTY?
 #. Run the tty command and explain it's output.
 #. What is the meaning of the number of files in the /dev/pts directory?
