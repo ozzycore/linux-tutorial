@@ -3,7 +3,7 @@ Ansible
 
 Content
 =======
-* Ansible - configuration management tool.
+* Ansible - configuration management and automation tool.
 
 Useful Links
 ============
