@@ -62,7 +62,7 @@ Exercise
 
 Finding files
 ~~~~~~~~~~~~~
-#. Which binary file executes when running the lsb_release command? - Use only the find command 
+#. Which binary file executes when running the lsb_release command?  
 #. Find the words file
 #. Find the ntp.conf file
 #. Copy all the pdf files located in /usr/share/doc/ to your home directory 
